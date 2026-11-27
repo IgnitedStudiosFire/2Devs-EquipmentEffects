@@ -1,3 +1,5 @@
+Plugin page and download: https://ignitedstudios.dev/free/equipmenteffects - for conditions, abilities, set bonuses and gems see Ignite EquipmentPro: https://ignitedstudios.dev/plugins/igniteequipmentpro
+
 ## Description:
 
 This is a plugin that allows you to create equipment or held items which gives you potion effects, permissions,
